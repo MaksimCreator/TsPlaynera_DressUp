@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3768a4022f9a8ae4cad0b6e8cc3c798f, type: 3}
+  m_Name: CreamMakeupConfig
+  m_EditorClassIdentifier: 
+  _delayStep: 0.4
+  _durationFirstPoint: 0.3
+  _durationSecondPoint: 0.3
+  _durationThirdPoint: 0.3
+  _durationReturnItem: 1
+  _durationReturnHand: 1.5

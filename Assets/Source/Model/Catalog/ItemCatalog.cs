@@ -1,0 +1,1 @@
+public class ItemCatalog : Catalog<ItemView, Item> { }
